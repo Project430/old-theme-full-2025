@@ -1,1 +1,14 @@
-[{"name":"theme_info","theme_name":"Debut","theme_author":"Shopify", ...}]
+[
+  {
+    "name": "theme_info",
+    "theme_name": "Old Theme Full 2025",
+    "theme_version": "2.0.0",
+    "theme_author": "Shopify",
+    "theme_documentation_url": "",
+    "theme_support_url": ""
+  },
+  {
+    "name": "Colors",
+    "settings": []
+  }
+]
