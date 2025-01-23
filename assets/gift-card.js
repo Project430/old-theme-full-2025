@@ -1,0 +1,1 @@
+window.giftCard = {}; /* Add gift card specific scripts */
